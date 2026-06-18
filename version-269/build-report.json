@@ -1,0 +1,27 @@
+{
+  "site_title": "日韩经典电影-经典影片合集-高清电影在线播放",
+  "logo": "日韩经典电影",
+  "parsed_movie_count": 2000,
+  "html_file_count": 2015,
+  "detail_page_count": 2000,
+  "category_page_count": 8,
+  "category_coverage": 2000,
+  "cards_in_category_pages": 2000,
+  "baidu_missing_html_count": 0,
+  "baidu_missing_html_files": [],
+  "player_missing_count": 0,
+  "original_m3u8_url_count": 150,
+  "original_unique_m3u8_url_count": 20,
+  "category_distribution": {
+    "japan-korea-classics": 250,
+    "romance": 250,
+    "suspense": 250,
+    "drama": 250,
+    "comedy": 250,
+    "action-adventure": 250,
+    "animation-family": 250,
+    "sci-fi-fantasy": 250
+  },
+  "image_assignment_rule": "X = ((N - 1) % 150) + 1",
+  "notes": "HTML content is static; top-level 1.jpg to 150.jpg are referenced and should be placed beside index.html before deployment."
+}
